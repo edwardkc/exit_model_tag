@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #Adding Model name at the end of filename
 #If EXIF Model tag does not exit, do nothing
